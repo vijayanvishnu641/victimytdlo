@@ -6,7 +6,7 @@
     "Youtube","YoutubeDownloader"
   ],
   "repository": "https://github.com/Testappsvictim/victimytdlo",
-  "success_url": "https://t.me/youtubdlbot",
+  "success_url": "https://t.me/Ytdl_alpha_victim_bot",
   "website": "https://github.com/Testappsvictim/victimytdlo",
   "env": {
         "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
